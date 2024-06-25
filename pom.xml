@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http:/54.248.10.206:8081/repository/mss-relese/</url>
+	      <url>http:/54.250.155.96:8081/repository/mss-relese/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http:/54.248.10.206:8081/repository/mss-snapshot/</url>
+	      <url>http:/54.250.155.96:8081/repository/mss-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
